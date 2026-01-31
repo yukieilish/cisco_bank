@@ -1,4 +1,4 @@
-
+### ATM
 ```mermaid
 graph TD
     %% Nodes
@@ -31,7 +31,7 @@ graph TD
     style Core fill:#fff4dd,stroke:#d4a017
     linkStyle 4,5 stroke:#ff0000,stroke-width:2px;
 ```
-
+### Lobby
 ```mermaid
 graph TD
     %% Nodes
@@ -63,7 +63,7 @@ graph TD
     style FW fill:#ffebee,stroke:#c62828,stroke-width:2px
     linkStyle 4,5 stroke:#ff0000,stroke-width:2px;
 ```
-
+### Staff
 ```mermaid
 graph TD
     %% Nodes
@@ -85,7 +85,7 @@ graph TD
     style DB fill:#ff9999,stroke:#cc0000,stroke-width:2px
     linkStyle 2 stroke:#ff0000,stroke-width:2px;
 ```
-
+### Finance
 ```mermaid
 graph TD
     %% Nodes
@@ -117,7 +117,7 @@ graph TD
     style VLANs fill:#ffebee,stroke:#c62828
     linkStyle 4 stroke:#ff0000,stroke-width:2px;
 ```
-
+### Management
 ```mermaid
 graph TD
     %% Nodes
@@ -146,7 +146,7 @@ graph TD
     style Web fill:#e3f2fd,stroke:#1565c0
     linkStyle 2,3,4 stroke:#2e7d32,stroke-width:2px;
 ```
-
+### IT Admin
 ```mermaid
 graph TD
     %% Nodes
@@ -175,7 +175,7 @@ graph TD
     style HW fill:#eceff1,stroke:#455a64
     linkStyle 2,3,4 stroke:#006064,stroke-width:2px;
 ```
-
+### Security (CCTV)
 ```mermaid
 graph TD
     %% Nodes
