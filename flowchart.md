@@ -208,7 +208,7 @@ graph TD
     style Users fill:#ffebee,stroke:#c62828
     linkStyle 3,4 stroke:#ff0000,stroke-width:2px;
 ```
-
+### Summary
 ```mermaid
 graph TD
     %% User & Device Layers
